@@ -1,6 +1,0 @@
-{
-  "username": "kader11000",
-  "password": "kader11000",
-  "recordings_path": "/var/spool/asterisk/monitor",
-  "voicemail_path": "/var/spool/asterisk/voicemail/default"
-}
